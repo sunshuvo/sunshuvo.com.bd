@@ -1,0 +1,2 @@
+[23-Jun-2020 06:15:20 UTC] PHP Parse error:  syntax error, unexpected '$_POST' (T_VARIABLE), expecting '(' in /home/sunshuvocom/public_html/index.php on line 2
+[23-Jun-2020 06:15:22 UTC] PHP Parse error:  syntax error, unexpected '$_POST' (T_VARIABLE), expecting '(' in /home/sunshuvocom/public_html/index.php on line 2
